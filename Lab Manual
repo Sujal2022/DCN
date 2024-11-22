@@ -1,0 +1,52 @@
+Lab Manual
+Data Communication Networks
+BCA324
+III
+Name:
+Enrollment NO:
+Tutorial - 1
+Explore CISCO Packet Tracer in detail.
+Tutorial - 2
+Create all Network Topology Using Packet Tracer. [ Type of topology Bus,Ring,Mesh,Hybrid,Tree ] Write steps of each networking.
+Tutorial - 3
+Design Star topology using Cisco packet tracer.
+Tutorial - 4
+Study of Network IP address of different CLASS A, CLASS B, CLASS C using Cisco packet tracer.
+Necessary Equipment’s:
+●	1. 1 Router
+●	3 PCs & 3 Laptop’s
+●	3 Switch’s (2960-24PT)
+●	Copper Straight-Through wires
+Tutorial - 5
+Explore 5 ways to find the IP Address of your computer. Also explore the commands that you have used to find IP Address.
+Tutorial - 6
+Explore the use of ping command line utility.
+-t: Pings the specified host until stopped. To stop - type Control-C
+-n:number of packets : ping -n no. Of packets
+-i: how many time to live the packets (Time to live)
+-4: ipv4 address
+-6:ipv4 address
+-t			Pings the specified host until stopped. To stop type Control-C
+-a			Resolve adresses to hostnames
+-n			Number of echo requests to send
+-l 			Send buffer size
+-f			Set Don't Fragmet flag in packet (IPv4-only)
+-i			Set Time To Live
+-v	Set Type of Service (Setting has been deprecated)
+-r	Record route for count hops (IPv4-only)
+-s	Timestamp for count hops (IPv4-only)
+-j	Loose source route along host-list (IPv4-only)
+-k	Strict source route along host-list (IPv4-only)
+-w	Timeout in milliseconds to wait for each reply
+-R	Use routing header to test reverse route also
+(IPv6-only, deprecated per RFC 5095)
+-S	Source address to use
+-c	Routing compartment identifier
+-p	Ping a Hyper-V Network Virtualization provider address
+-4	Force using IPv4
+-6	Force using Ipv6
+Tutorial - 7
+Explore the route for reaching following website.
+http://www.rku.ac.in http://www.gmail.com http://www.bhaskar.com
+Tutorial - 8
+Find the IP address of 5 web sites that you know using NSLOOKUP command. also explore NSLOOKUP in detail
